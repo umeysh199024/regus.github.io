@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17950" appversion="6.1.6">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" width="1970" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1970" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="1970" height="1970" predecode="0"/>
+      <level preload="0" width="985" height="985" predecode="0"/>
+      <level preload="1" width="492" height="492" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node1" copyright="" longitude="" datetime="" latitude="" info="" title="" author="" heading="0" source="" comment="" tags="New folder"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" border="1" textalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" height="20" enabled="1" borderalpha="1" background="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot description="" target="-109.8/-6.7/70.0" pan="-360.35" url="{node4}" id="Point01" tilt="7.72" title="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" type="crossdissolve" enabled="1" blendtime="1" softedge="0" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" width="1971" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1971" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="1971" height="1971" predecode="0"/>
+      <level preload="0" width="985" height="985" predecode="0"/>
+      <level preload="1" width="492" height="492" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node2" copyright="" longitude="" datetime="" latitude="" info="" title="" author="" heading="0" source="" comment="" tags="New folder"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" border="1" textalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" height="20" enabled="1" borderalpha="1" background="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot description="" target="-111.4/-7.6/70.0" pan="-200.69" url="{node4}" id="Point01" tilt="-2.68" title="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" type="crossdissolve" enabled="1" blendtime="1" softedge="0" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" width="1997" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1997" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="1997" height="1997" predecode="0"/>
+      <level preload="0" width="998" height="998" predecode="0"/>
+      <level preload="1" width="499" height="499" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node3" copyright="" longitude="" datetime="" latitude="" info="" title="" author="" heading="0" source="" comment="" tags="New folder"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" border="1" textalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" height="20" enabled="1" borderalpha="1" background="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot description="" target="-110.7/-7.3/70.0" pan="-157.85" url="{node4}" id="Point01" tilt="2.89" title="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" type="crossdissolve" enabled="1" blendtime="1" softedge="0" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" width="1966" levelbias="0.400" levelingroll="0" levelingpitch="0" height="1966" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level preload="0" width="1966" height="1966" predecode="0"/>
+      <level preload="0" width="983" height="983" predecode="0"/>
+      <level preload="1" width="491" height="491" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node4" copyright="" longitude="" datetime="" latitude="" info="" title="" author="" heading="0" source="" comment="" tags="New folder"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" border="1" textalpha="1" textcolor="0x000000" width="180" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" height="20" enabled="1" borderalpha="1" background="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot description="" target="-27.0/-8.9/70.0" pan="-152.72" url="{node3}" id="Point01" tilt="0.99" title="" skinid="ht_node"/>
+      <hotspot description="" target="158.7/-0.4/70.0" pan="-47.83" url="{node2}" id="Point02" tilt="-3.55" title="" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound field="90.000" nodechangekeep="1" startmutedmobile="0" level="1.000" pan="-106.420" tiltsize="90.000" id="Element01" mode="3" tilt="-3.770" loop="1" pansize="180.000" ambientlevel="0.500">
+        <source url="media/Final VO.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" type="crossdissolve" enabled="1" blendtime="1" softedge="0" zoomspeed="2" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" customnodeid="" nodeid="master" copyright="" longitude="" datetime="" latitude="" info="" title="" author="" heading="0" source="" comment="" tags=""/>
+  </masternode>
+</tour>
